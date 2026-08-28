@@ -1,5 +1,3 @@
-# Estagio
-
 # Financial Assistant API
 
 Assistente financeiro que responde perguntas em linguagem natural

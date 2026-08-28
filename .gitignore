@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Banco de dados local (gerado pelo import_data.py)
+data/finance.db
+
+# Variáveis de ambiente / segredos
+.env
+
+# Configurações de editor
+.vscode/
+.idea/

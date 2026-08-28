@@ -1,1 +1,17 @@
-
+date,category,amount,description
+2026-08-01,mercado,150.30,Supermercado Extra
+2026-08-02,transporte,25.00,Uber para faculdade
+2026-08-03,lazer,80.00,Cinema com amigos
+2026-08-04,mercado,45.20,Padaria
+2026-08-05,alimentacao,32.90,iFood - jantar
+2026-08-06,transporte,18.50,Uber
+2026-08-07,mercado,210.00,Compras do mes
+2026-08-08,educacao,120.00,Curso online
+2026-08-10,lazer,55.00,Assinatura streaming
+2026-08-12,alimentacao,28.00,iFood - almoco
+2026-08-14,mercado,63.40,Supermercado
+2026-08-15,transporte,22.00,Uber
+2026-08-18,saude,90.00,Farmacia
+2026-08-20,mercado,175.60,Compras do mes
+2026-08-22,lazer,40.00,Bar com amigos
+2026-08-25,alimentacao,35.00,iFood - jantar
